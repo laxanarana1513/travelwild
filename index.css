@@ -31,7 +31,7 @@
 }
 
 .cimg{
-    background-image: url(/img/c2.jpg); 
+    background-image: url(img/c2.jpg); 
     height: 300px;
     background-repeat: no-repeat;
     background-position: center center;
@@ -85,7 +85,7 @@
 }
 
 .newletter_area{
-    background-image: url(/img/news.jpg);
+    background-image: url(img/news.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -173,7 +173,7 @@
 }
 
 .tourist{
-    background-image: url(/img/client.jpg);
+    background-image: url(img/client.jpg);
     
     background-repeat: no-repeat;
     background-position: center center;
@@ -200,35 +200,35 @@
 }
 
 .image1{
-    background-image: url(/img/CR2.jpg);
+    background-image: url(img/CR2.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
 }
 
 .image2{
-    background-image: url(/img/CR1.jpg);
+    background-image: url(img/CR1.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
 }
 
 .image3{
-    background-image: url(/img/CR3.jpg);
+    background-image: url(img/CR3.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
 }
 
 .image4{
-    background-image: url(/img/CR4.jpg);
+    background-image: url(img/CR4.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
 }
 
 .image5{
-    background-image: url(/img/CR5.jpg);
+    background-image: url(img/CR5.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -248,7 +248,7 @@
 }
 
 .qimg{
-    background-image: url(/img/quote1.jpeg);
+    background-image: url(img/quote1.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -293,7 +293,7 @@ z-index: 0;
 /* About US Page  */
 
 .bradcam_area {
-    background-image: url(/img/about1.jpg);
+    background-image: url(img/about1.jpg);
     background-size: cover;
     background-position: center center;
     padding: 175px 0;
@@ -334,7 +334,7 @@ z-index: 0;
 /* HOTEL PAGE  */
 
 .bradcam_area1 {
-    background-image: url(/img/hotel2.jpeg);
+    background-image: url(img/hotel2.jpeg);
     background-size: cover;
     background-position: center center;
     padding: 175px 0;
@@ -377,7 +377,7 @@ z-index: 0;
 /* CONTACT US PAGE  */
 
 .bradcam_area2{
-    background-image: url(/img/contact.jpg);
+    background-image: url(img/contact.jpg);
     background-size: cover;
     background-position: center center;
     padding: 175px 0;
@@ -447,7 +447,7 @@ z-index: 0;
 /* BLOG PAGE  */
 
 .bradcam_area3{
-    background-image: url(/img/blog.jpg);
+    background-image: url(img/blog.jpg);
     background-size: cover;
     background-position: center center;
     padding: 175px 0;
